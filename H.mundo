@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main (){
+         Printf("hola mundo");
+         printf(“\n Soy Olvera Martínez Jesús Roberto\n”);
+         Return 0;
+}
